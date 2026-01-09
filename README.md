@@ -520,20 +520,15 @@ Spend2Invest uygulaması, finansal okuryazarlığı artırma ve tasarruf alışk
 
 Uygulama ile ilgili görseller aşağıda yer almaktadır:
 
-![Görsel 1](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.00%20PM.jpeg)
-![Görsel 2](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.01%20PM%20(1).jpeg)
-![Görsel 3](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.01%20PM%20(2).jpeg)
-![Görsel 4](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.01%20PM%20(3).jpeg)
-![Görsel 5](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.01%20PM.jpeg)
-![Görsel 6](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.02%20PM%20(1).jpeg)
-![Görsel 7](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.02%20PM.jpeg)
-![Görsel 8](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.03%20PM%20(1).jpeg)
-![Görsel 9](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.03%20PM%20(2).jpeg)
-![Görsel 10](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.03%20PM.jpeg)
-![Görsel 11](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.04%20PM%20(1).jpeg)
-![Görsel 12](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.04%20PM%20(2).jpeg)
-![Görsel 13](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.04%20PM.jpeg)
-![Görsel 14](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.05%20PM.jpeg)
+| Görsel 1 | Görsel 2 |
+|----------|----------|
+| <img src="görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.00%20PM.jpeg" width="250" alt="Görsel 1"> | <img src="görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.01%20PM%20(1).jpeg" width="250" alt="Görsel 2"> |
+| <img src="görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.01%20PM%20(2).jpeg" width="250" alt="Görsel 3"> | <img src="görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.01%20PM%20(3).jpeg" width="250" alt="Görsel 4"> |
+| <img src="görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.01%20PM.jpeg" width="250" alt="Görsel 5"> | <img src="görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.02%20PM%20(1).jpeg" width="250" alt="Görsel 6"> |
+| <img src="görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.02%20PM.jpeg" width="250" alt="Görsel 7"> | <img src="görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.03%20PM%20(1).jpeg" width="250" alt="Görsel 8"> |
+| <img src="görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.03%20PM%20(2).jpeg" width="250" alt="Görsel 9"> | <img src="görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.03%20PM.jpeg" width="250" alt="Görsel 10"> |
+| <img src="görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.04%20PM%20(1).jpeg" width="250" alt="Görsel 11"> | <img src="görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.04%20PM%20(2).jpeg" width="250" alt="Görsel 12"> |
+| <img src="görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.04%20PM.jpeg" width="250" alt="Görsel 13"> | <img src="görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.05%20PM.jpeg" width="250" alt="Görsel 14"> |
 
 ## KAYNAKLAR
 
