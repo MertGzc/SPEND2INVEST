@@ -1,0 +1,29 @@
+[INFO] Generating build script...
+[INFO] Generating build script completed, took 817ms
+
+[WARNING] Invalidated precompiled build script due to missing asset graph.
+[INFO] Precompiling build script......
+[INFO] Precompiling build script... completed, took 1.6s
+
+[INFO] Initializing inputs
+[INFO] Building new asset graph...
+[INFO] Building new asset graph completed, took 1.7s
+
+[INFO] Checking for unexpected pre-existing outputs....
+[INFO] Checking for unexpected pre-existing outputs. completed, took 1ms
+
+[INFO] Running build...
+[INFO] Generating SDK summary...
+[INFO] 4.3s elapsed, 0/8 actions completed.
+[INFO] 6.7s elapsed, 0/8 actions completed.
+[INFO] 7.8s elapsed, 0/8 actions completed.
+[INFO] Generating SDK summary completed, took 7.9s
+
+[INFO] 9.0s elapsed, 10/11 actions completed.
+[INFO] Running build completed, took 9.5s
+
+[INFO] Caching finalized dependency graph...
+[INFO] Caching finalized dependency graph completed, took 95ms
+
+[INFO] Succeeded after 9.6s with 5 outputs (23 actions)
+
