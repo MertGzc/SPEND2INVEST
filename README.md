@@ -516,6 +516,25 @@ Spend2Invest uygulaması, harcama davranışlarını yatırım fırsatlarına d�
 
 Spend2Invest uygulaması, finansal okuryazarlığı artırma ve tasarruf alışkanlıklarını geliştirme potansiyeline sahiptir. Kullanıcıların bilinçsiz harcamalarını değerli yatırımlara dönüştürerek hem kişisel finansal refahı hem de ekonomik büyümeyi desteklemektedir.
 
+## GÖRSELLER
+
+Uygulama ile ilgili görseller aşağıda yer almaktadır:
+
+![Görsel 1](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.00%20PM.jpeg)
+![Görsel 2](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.01%20PM%20(1).jpeg)
+![Görsel 3](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.01%20PM%20(2).jpeg)
+![Görsel 4](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.01%20PM%20(3).jpeg)
+![Görsel 5](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.01%20PM.jpeg)
+![Görsel 6](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.02%20PM%20(1).jpeg)
+![Görsel 7](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.02%20PM.jpeg)
+![Görsel 8](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.03%20PM%20(1).jpeg)
+![Görsel 9](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.03%20PM%20(2).jpeg)
+![Görsel 10](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.03%20PM.jpeg)
+![Görsel 11](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.04%20PM%20(1).jpeg)
+![Görsel 12](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.04%20PM%20(2).jpeg)
+![Görsel 13](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.04%20PM.jpeg)
+![Görsel 14](görseller/WhatsApp%20Image%202026-01-07%20at%2010.53.05%20PM.jpeg)
+
 ## KAYNAKLAR
 
 1. Flutter Documentation. (2024). Flutter.dev. https://flutter.dev/docs
@@ -524,31 +543,3 @@ Spend2Invest uygulaması, finansal okuryazarlığı artırma ve tasarruf alışk
 4. Google Fonts. (2024). Pub.dev. https://pub.dev/packages/google_fonts
 5. FL Chart. (2024). Pub.dev. https://pub.dev/packages/fl_chart
 
-## EKLER
-
-### Ek A: Ekran Görüntüleri
-
-1. Ana Sayfa
-2. Ürün Listesi
-3. Sepet Ekranı
-4. Portföy Ekranı
-5. Yönetim Paneli
-
-### Ek B: Kod Örnekleri
-
-1. AppManager Sınıfı
-2. Ana Ekran Widget'ı
-3. API Servis Fonksiyonları
-
-### Ek C: Test Sonuçları
-
-1. Performans Metrikleri
-2. Kullanılabilirlik Test Raporu
-3. Güvenlik Denetimi Raporu
-
----
-
-**Hazırlayan:** [İsim Soyisim]  
-**Tarih:** [Tarih]  
-**Kurum:** [Kurum Adı]  
-**Tez Danışmanı:** [Danışman Adı]
